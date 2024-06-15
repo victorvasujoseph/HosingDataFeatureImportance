@@ -15,7 +15,6 @@ Step 4: Interpret the Model using Permutation Feature Importance
 Use the permutation_importance function from scikit-learn to understand the importance of different features.
 
 Output & Conclusion
-![My Image](images/outputImage2.png)
-![My Image](images/outputImage1.png)
 
-<img src="images/outputImage2.png" alt="My Image" width="300"/>
+<img src="images/outputImage2.png" alt="My Image" width="400"/>
+<img src="images/outputImage1.png" alt="My Image" width="400"/>
