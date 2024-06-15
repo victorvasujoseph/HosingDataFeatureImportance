@@ -1,4 +1,4 @@
-building a regression model to predict house prices in California using scikit-learn, and then interpreting the model using permutation feature importance. 
+ This repo focuses on building a regression model to predict house prices in California using scikit-learn, and then interpreting the model using permutation feature importance. 
 
 Here's a step-by-step approach:
 
