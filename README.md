@@ -17,4 +17,4 @@ Use the permutation_importance function from scikit-learn to understand the impo
 Output & Conclusion
 
 <img src="images/outputImage2.png" alt="My Image" width="400"/>
-<img src="images/outputImage1.png" alt="My Image" width="400"/>
+<img src="images/outputImage1.png" alt="My Image" width="700"/>
